@@ -1,0 +1,7 @@
+
+boto3==1.35.45              # Required for SageMaker SDK
+sagemaker==2.232.2          # SageMaker Python SDK version
+platformdirs==4.0.0         # Needed by SageMaker
+packaging==23.2             # Needed by SageMaker
+setuptools>=75.2.0          # Required to include distutils in Python 3.12
+
